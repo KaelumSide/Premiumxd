@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,STAR+
-https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2022/07/20/Argentinos_Jrs_vs_Boca_Ju_20220720_1658271037021/cmaf-cenc-ctr-7000K/201/01/35/25_224.mp4
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2022/07/20/Argentinos_Jrs_vs_Boca_Ju_20220720_1658271037021/cmaf-cenc-ctr-5600K/5600_slide.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",TNT SPORTS ARGENTINA 
 http://ugeen.live:8080/Ugeen_VIPSLpXeh/HTRL2C/3072
 #EXTINF:-1 ,TNT SPORTS 2 ARGENTINA 
